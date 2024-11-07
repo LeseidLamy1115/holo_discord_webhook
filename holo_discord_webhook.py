@@ -68,7 +68,7 @@ Hololive = {
     ],
     "百鬼あやめ": [
         "百鬼あやめ",
-        "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Nakiri-Ayame_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Nakiri-Ayame_list_thumb.png",
         "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg"
     ],
     "紫咲シオン": [
@@ -88,7 +88,7 @@ Hololive = {
     ],
     "猫又おかゆ": [
         "猫又おかゆ",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Nekomata-Okayu_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Nekomata-Okayu_list_thumb.png",
         "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw"
     ],
     "戌神ころね": [
@@ -148,7 +148,7 @@ Hololive = {
     ],
     "姫森ルーナ": [
         "姫森ルーナ",
-        "https://hololive.hololivepro.com/wp-content/uploads/2020/06/Himemori-Luna_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/07/Himemori-Luna_list_thumb.png",
         "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw"
     ],
     "雪花ラミィ": [
@@ -163,22 +163,22 @@ Hololive = {
     ],
     "獅白ぼたん": [
         "獅白ぼたん",
-        "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Shishiro-Botan_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/05/Shishiro-Botan_list_thumb.png",
         "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA"
     ],
     "尾丸ポルカ": [
         "尾丸ポルカ",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/04/Omaru-Polka_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Omaru-Polka_list_thumb.png",
         "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA"
     ],
     "ラプラス": [
         "ラプラス・ダークネス",
-        "https://hololive.hololivepro.com/wp-content/uploads/2020/07/La-Darknesss_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/05/La-Darknesss_list_thumb.png",
         "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw"
     ],
     "鷹嶺ルイ": [
         "鷹嶺ルイ",
-        "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Takane-Lui_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Takane-Lui_list_thumb.png",
         "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g"
     ],
     "博衣こより": [
@@ -213,7 +213,7 @@ Hololive = {
     ],
     "Ollie": [
         "Kureiji Ollie / クレイジー・オリー",
-        "https://hololive.hololivepro.com/wp-content/uploads/2020/07/Kureiji-Ollie_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/06/Kureiji-Ollie_list_thumb.png",
         "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ"
     ],
     "Anya": [
@@ -233,7 +233,7 @@ Hololive = {
     ],
     "Kaela": [
         "Kaela Kovalskia / カエラ・コヴァルスキア",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/11/Kaela-Kovalskia_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/09/Kaela-Kovalskia_list_thumb.png",
         "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg"
     ],
     "Kobo": [
@@ -258,7 +258,7 @@ Hololive = {
     ],
     "Gura": [
         "Gawr Gura / がうる・ぐら",
-        "https://hololive.hololivepro.com/wp-content/uploads/2022/04/%E3%81%90%E3%82%89.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/05/Gawr-Gura_list_thumb.png",
         "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g"
     ],
     "Amelia": [
@@ -268,7 +268,7 @@ Hololive = {
     ],
     "IRyS": [
         "IRyS",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/10/IRyS_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2020/07/IRyS_list_thumb.png",
         "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g"
     ],
     "Sana": [
@@ -298,17 +298,17 @@ Hololive = {
     ],
     "Shiori": [
         "Shiori Novella / シオリ・ノヴェラ",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/07/Shiori-Novella_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2021/07/Shiori-Novella_list_thumb.png",
         "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg"
     ],
     "Bijou": [
         "Koseki Bijou / 古石ビジュー",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/07/Koseki-Bijou_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Koseki-Bijou_list_thumb.png",
         "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA"
     ],
     "Nerissa": [
         "Nerissa Ravencroft / ネリッサ・レイヴンクロフト",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/07/Nerissa-Ravencroft_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/08/Nerissa-Ravencroft_list_thumb.png",
         "https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg"
     ],
     "FUWAMOCO": [
@@ -338,82 +338,107 @@ Hololive = {
     ],
     "火威青": [
         "火威青",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/09/Hiodoshi-Ao_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Hiodoshi-Ao_list_thumb.png",
         "https://www.youtube.com/channel/UCMGfV7TVTmHhEErVJg1oHBQ"
     ],
     "音乃瀬奏": [
         "音乃瀬奏",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/09/Otonose-Kanade_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Otonose-Kanade_list_thumb.png",
         "https://youtube.com/@OtonoseKanade"
     ],
     "一条莉々華": [
         "一条莉々華",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/09/Ichijou-Ririka_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Ichijou-Ririka_list_thumb.png",
         "https://www.youtube.com/@IchijouRirika"
     ],
     "儒烏風亭らでん": [
         "儒烏風亭らでん",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/09/Juufuutei-Raden_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Juufuutei-Raden_list_thumb.png",
         "https://www.youtube.com/@JuufuuteiRaden"
     ],
     "轟はじめ": [
         "轟はじめ",
-        "https://hololive.hololivepro.com/wp-content/uploads/2023/09/Todoroki-Hajime_list_thumb.png",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Todoroki-Hajime_list_thumb.png",
         "https://www.youtube.com/@TodorokiHajime"
+    ],
+    "響咲リオナ": [
+        "響咲リオナ",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/11/Isaki-Riona_list_thumb.png",
+        "https://www.youtube.com/@IsakiRiona"
+    ],
+    "虎金妃笑虎": [
+        "虎金妃笑虎",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Otonose-Kanade_list_thumb.png",
+        "https://www.youtube.com/@KoganeiNiko"
+    ],
+    "水宮枢": [
+        "水宮枢",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Ichijou-Ririka_list_thumb.png",
+        "https://www.youtube.com/@MizumiyaSu"
+    ],
+    "輪堂千速": [
+        "輪堂千速",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Juufuutei-Raden_list_thumb.png",
+        "https://www.youtube.com/@RindoChihaya"
+    ],
+    "綺々羅々ヴィヴィ": [
+        "綺々羅々ヴィヴィ",
+        "https://hololive.hololivepro.com/wp-content/uploads/2024/10/Todoroki-Hajime_list_thumb.png",
+        "https://www.youtube.com/@KikiraraVivi"
     ],
     "花咲みやび": [
         "花咲みやび",
-        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/1_%E8%8A%B1%E5%92%B2%E3%81%BF%E3%82%84%E3%81%B3.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Hanasaki-Miyabi_list_thumb.png",
         "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw"
     ],
     "奏手イヅル": [
         "奏手イヅル",
-        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/2_%EF%BC%88%E8%89%B2%E8%AA%BF%E6%95%B4%EF%BC%89%E5%A5%8F%E6%89%8B%E3%82%A4%E3%83%85%E3%83%AB.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2024/08/Kanade-Izuru_list_thumb.png",
         "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA"
     ],
     "アルランディス": [
         "アルランディス",
-        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/new_arurandeisu_thumb_02.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Arurandeisu_list_thumb.png",
         "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ"
     ],
     "律可": [
         "律可",
-        "https://holostars.hololivepro.com/wp-content/uploads/2022/04/%E5%BE%8B%E5%8F%AF.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Rikka_list_thumb.png",
         "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w"
     ],
     "アステル・レダ": [
         "アステル・レダ",
-        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/5_%E3%82%A2%E3%82%B9%E3%83%86%E3%83%AB%E3%83%BB%E3%83%AC%E3%83%80.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Astel-Leda_list_thumb.png",
         "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg"
     ],
     "岸堂天真": [
         "岸堂天真",
-        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/6_%E5%B2%B8%E5%A0%82%E5%A4%A9%E7%9C%9F.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Kishido-Temma_list_thumb.png",
         "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg"
     ],
     "夕刻ロベル": [
         "夕刻ロベル",
-        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/7_%E5%A4%95%E5%88%BB%E3%83%AD%E3%83%99%E3%83%AB.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Yukoku-Roberu_list_thumb.png",
         "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA"
     ],
     "影山シエン": [
         "影山シエン",
-        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/8_%E5%BD%B1%E5%B1%B1%E3%82%B7%E3%82%A8%E3%83%B3.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Kageyama-Shien_list_thumb.png",
         "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g"
     ],
     "荒咬オウガ": [
         "荒咬オウガ",
-        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/oga_list_thumb_02.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Aragami-Oga_list_thumb.png",
         "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA"
     ],
     "夜十神封魔": [
         "夜十神封魔",
-        "https://holostars.hololivepro.com/wp-content/uploads/2022/12/Yatogami-Fuma_thumb.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Yatogami-Fuma_list_thumb.png",
         "https://www.youtube.com/channel/UCc88OV45ICgHbn3ZqLLb52w"
     ],
     "羽継烏有": [
         "羽継烏有",
-        "https://holostars.hololivepro.com/wp-content/uploads/2022/12/Utsugi-Uyu_thumb.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Utsugi-Uyu_list_thumb.png",
         "https://www.youtube.com/channel/UCgRqGV1gBf2Esxh0Tz1vxzw"
     ],
     "緋崎ガンマ": [
@@ -423,37 +448,37 @@ Hololive = {
     ],
     "水無世燐央": [
         "水無世燐央",
-        "https://holostars.hololivepro.com/wp-content/uploads/2022/12/Minase-Rio_thumb.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Minase-Rio_list_thumb.png",
         "https://www.youtube.com/channel/UCdfMHxjcCc2HSd9qFvfJgjg"
     ],
     "Altare": [
         "Regis Altare / リージス・アルテア",
-        "https://holostars.hololivepro.com/wp-content/uploads/2022/07/1_%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%B9-%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A2.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Regis-Altare_list_thumb.png",
         "https://www.youtube.com/channel/UCyxtGMdWlURZ30WSnEjDOQw"
     ],
     "Syrios": [
         "Axel Syrios / アクセル・シリオス",
-        "https://holostars.hololivepro.com/wp-content/uploads/2022/07/3_%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%AB-%E3%82%B7%E3%83%AA%E3%82%AA.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2021/12/Axel-Syrios_list_thumb.png",
         "https://www.youtube.com/channel/UC2hx0xVkMoHGWijwr_lA01w"
     ],
     "Bettel": [
         "Gavis Bettel / ガビス・ベッテル",
-        "https://holostars.hololivepro.com/wp-content/uploads/2023/01/gavisbettel_icon.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2024/06/Gavis-Bettel_list_thumb.png",
         "https://www.youtube.com/channel/UCHP4f7G2dWD4qib7BMatGAw"
     ],
     "Flayon": [
         "Machina X Flayon / マキナ・X・フレオン",
-        "https://holostars.hololivepro.com/wp-content/uploads/2023/01/machina_icon.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2024/06/Machina-X-Flayon_list_thumb.png",
         "https://www.youtube.com/channel/UC060r4zABV18vcahAWR1n7w"
     ],
     "Hakka": [
         "Hakka / 万象院ハッカ",
-        "https://holostars.hololivepro.com/wp-content/uploads/2023/01/banzoinhakka_icon.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2024/06/Banzoin-Hakka_list_thumb.png",
         "https://www.youtube.com/channel/UC7gxU6NXjKF1LrgOddPzgTw"
     ],
     "Shinri": [
         "Josuiji Shinri / 定水寺シンリ",
-        "https://holostars.hololivepro.com/wp-content/uploads/2023/01/josuijishinri_icon.png",
+        "https://holostars.hololivepro.com/wp-content/uploads/2024/06/Josuiji-Shinri_list_thumb.png",
         "https://www.youtube.com/channel/UCMqGG8BRAiI1lJfKOpETM_w"
     ],
     "Jurard": [
@@ -510,6 +535,11 @@ Hololive = {
         "hololive DEV_IS",
         "https://yt3.googleusercontent.com/KTypB1brQ2yd1KtZUBo4Y533L9kHmNeB1Q9aHZyfqWm3YE_6EOL10VYWj4LVRTwQ2jtg6hMyJQ",
         "https://www.youtube.com/@hololiveDEV_IS"
+    ],
+    "FLOW GLOW": [
+        "hololive DEV_IS FLOW GLOW",
+        "https://yt3.googleusercontent.com/ypxkfw18lthQENaCFsvuWT5dBtoIkDnFpMc8NASkgwFSospslVrIwt5gFZeq9TerPYeQktoS=s160-c-k-c0x00ffffff-no-rj",
+        "https://www.youtube.com/@DEV_IS_FLOWGLOW"
     ],
     "ホロスターズ": [
         "ホロスターズ公式チャンネル",
