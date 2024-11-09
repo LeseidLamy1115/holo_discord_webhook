@@ -1,6 +1,6 @@
 # ホロライブP 配信開始通知Discord Webhook Bot
 
-![image](https://hanano.hiromin.xyz/content/discordbot/holo_discord_webhook.png)
+![image](https://hanano.hiromin.xyz/content/discordbot/holo_discord_webhook_image.jpg)
 
 ## 紹介
 
@@ -35,29 +35,64 @@ pip install bs4
 5. 最後に「ウェブフックURLをコピー」を押し、URLを取得します。
 
 次にボットの編集です。
-コンフィグファイルは無いので本体を直接編集します。
-ダウンロード後「holo_discord_webhook.py」をテキストエディタで開き、8行目を確認します。
+「Config.ini」を開き、webhookに取得したURLを貼り付けます。
+
+「webhook =」の後に先ほどコピーしたURLをペーストします。
+
+例：
 
 ```
-webhook_url_Hololive = ''
+webhook = https://discord.com/api/webhooks/<数字が書いてある>/<文字列がならんでいる>
 ```
-
-「''」の間に先ほどコピーしたURLをペーストします。
 
 ペーストした後は保存し、準備完了です。
 起動方法は環境によるため割愛します。
 
 ## 更新間隔
 
-ホロジュールにアクセスし、情報を取る間隔は10分ごとになっています。
-アクセスする間隔を変更する場合は最下層にある、以下の部分を書き換えてください。
+ホロジュールにアクセスし情報を取得する間隔は、初期設定では10分ごとになっています。
+同じく「config.ini」にて間隔を変更できます。ただし若干癖があります。
+
+例(10分間隔)：
 
 ```
-    if(now_time.minute % 10 == 0 and now_time.second == 0):
+[Interval]
+holodule_refresh = 10
 ```
 
-例えば2時間ごとなら以下の通りにします。
+これで0:00、0:10、0:20…と取得されます。
+
+例(35分間隔)：
 
 ```
-    if(now_time.hour % 2 == 0 and now_time.second == 0):
+[Interval]
+holodule_refresh = 35
 ```
+
+これで0:00, 0:35, 1:10…に取得されます。問題は日が変わる前後で、23:20, **23:55**, **0:00**, 0:35…に取得されます。
+これは起動してから35分ではなく、現在時刻が35分で割れる時に取得するからです。
+
+なお、更新間隔の上限と下限はそれぞれ1分、1440分に設定されています。
+ホロジュールの更新間隔はかなり短く、配信開始が遅れている場合、何度も同じ通知を出してしまう可能性があるため、10分以上の間隔が望ましいです(あと単にアクセスが増えてしまうため)。
+
+## 【Windowsのみ】run.batについて
+
+```
+@echo off
+start wt -p "Command Prompt" python holo_discord_webhook.py
+exit
+```
+
+中身はこんな感じになっています。
+これは「Windows ターミナル」(wt.exe)がインストールされている環境で実行できます。
+
+もし宗教上の関係でターミナルをインストールしていない場合は以下のように書き換えてください。
+
+```
+@echo off
+python holo_discord_webhook.py
+exit
+```
+
+複数バージョンのPythonがインストールされている場合、環境変数「python」で起動されるPythonに必要なモジュールをインストールしてください。
+もしくはバッチを書き換えて、目的のバージョンのPythonが起動できるようにしてください。

@@ -1,0 +1,70 @@
+{
+    "info": {
+        "ja": "情報",
+        "en": "Info"
+    },
+    "notice": {
+        "ja": "通知",
+        "en": "Notice"
+    },
+    "error": {
+        "ja": "エラー",
+        "en": "Error"
+    },
+    "ignored": {
+        "ja": "無視",
+        "en": "Ignored"
+    },
+    "listlength": {
+        "ja": "ホロジュール読み込み数",
+        "en": "List length"
+    },
+    "startup_complete": {
+        "ja": "起動完了。",
+        "en": "Start up complete."
+    },
+    "refreshinterval": {
+        "ja": "設定された更新間隔[秒]",
+        "en": "Refresh interval[sec]"
+    },
+    "notinlist": {
+        "ja": "はリストから除外されているため、通知をスキップしました。",
+        "en": " is not in list. Notice skipped."
+    },
+    "livein10minutes": {
+        "ja": "10分後に配信開始予定！",
+        "en": "Streaming in 10 minutes!"
+    },
+    "scheduled_time": {
+        "ja": "予定時刻：",
+        "en": "Scheduled at "
+    },
+    "scheduled_refresh": {
+        "ja": "ホロジュール定期取得完了。",
+        "en": "Scheduled Refresh Holodule."
+    },
+    "fail_load_config": {
+        "ja": "Configファイルの読み込みに失敗しました。",
+        "en": "Failed to load config."
+    },
+    "fail_load_webhookurl": {
+        "ja": "Webhook URLの読み込みに失敗しました。ConfigファイルのウェブフックURLを確認してください。",
+        "en": "Failed to load Webhook URL. Check your config and write Webhook URL completely."
+    },
+    "fail_load_json_holomen": {
+        "ja": "ホロライブメンバーのリストの取得に失敗しました。「holomen.json」ファイルがあるかの確認をしてください。",
+        "en": "Failed to load Hololive menbers list.(Cant find holomen.json file. Is it there?)"
+    },
+    "fail_refresh_connectionerror": {
+        "ja": "ホロジュールへの接続に失敗しました(ConnectionError)。",
+        "en": "Refresh Holodule Failed(ConnectionError)."
+    },
+    "fail_refresh_timeout": {
+        "ja": "ホロジュールの取得に時間がかかり、タイムアウトしました(Timeout)。",
+        "en": "Refresh Holodule Failed(Timeout)."
+    },
+    "fail_refresh_chunkedencodingerror": {
+        "ja": "ホロジュールの取得中に接続が切断されました(ChunkedEncodingError)。",
+        "en": "Refresh Holodule Failed(ChunkedEncodingError)."
+    }
+}
